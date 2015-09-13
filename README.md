@@ -1,3 +1,6 @@
+[![forthebadge](http://forthebadge.com/images/badges/uses-html.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/oooo-kill-em.svg)](http://forthebadge.com)
+
 # LuckityReview 
 Luckity Review Website is a clean responsive website built as a conversion page for an affiliate.
 [View the Website](http://endodoug.github.io/LuckityReview/) & marvel at the conversion greatness!
